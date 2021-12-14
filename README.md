@@ -5,6 +5,7 @@
 
 * 🎓 I am an Undergraduate of Department of Computer Science and Engineering - University of Moratuwa, Sri Lanka.
 * 🔭 Former trainee Software Engineer at Axiata Digital Labs Pvt Ltd.
+* 👯 I’m looking to collaborate on full-stack & mobile development
 
 <!--
 **RashmikaLakshan/RashmikaLakshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
